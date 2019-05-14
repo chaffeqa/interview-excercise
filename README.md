@@ -1,5 +1,13 @@
 # Interview Exercises
 
+Instructions:
+* Pull down repo
+* Create a branch with your name
+* Perform exercises within a 30 min timeframe
+* Commit and push up when satisfied
+
+*Note* Comments are fine, though if in an in person interview those can be verbal to save time.
+
 ## Exercise 1
 
 Implement **using CSS only** a responsive nav:
