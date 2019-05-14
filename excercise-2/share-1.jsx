@@ -8,8 +8,6 @@ import Modal, { ModalWrapper } from "../../../components/modal";
 import { GAME_UIDS, GAME_URLS } from "../../../constants/games";
 import Omniture from "../../../utils/omniture";
 import ShareLink from "../../Groups/components/ShareLink";
-import { SocialShareContainer } from "../ShareBracketGame";
-import HatsPic from "./47-DSG-ThankYou-800x400-v2.jpg";
 
 const socialReferrerLink = (href) => encodeURIComponent(href);
 
@@ -29,7 +27,7 @@ export default class ChampModal extends React.Component {
       <Modal isOpen={isOpen} afterClose={() => toggleModal(false)} analyticsPageName="invite-to-group">
         <ModalWrapper gameUid={GAME_UIDS.NBA_BRACKET}>
           <div>
-            <h3>NBA Pick 'Em: Bracket Challenge</h3>
+            <h3>NBA Pick Em: Bracket Challenge</h3>
             <p>Invite your friends to play!</p>
             <div className="share-type">
               <div className="share">

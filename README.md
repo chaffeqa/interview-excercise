@@ -6,15 +6,15 @@ Implement **using CSS only** a responsive nav:
 * On both narrow and wide screens, implement a stick-to-top blue nav
 * On both narrow and wide screens, "Login" button should be on the far right
 * On wide enough screens, displays a single stick-to-top nav with horizontally left-aligned links
-* On smaller screens, display a left-aligned button (preferably hamberger) that toggles a sidebar nav (where the nav links should now reside)
+* On smaller screens, display a left-aligned button (preferably hamburger) that toggles a sidebar nav (where the nav links should now reside)
 * Add any mobile friendly head tags you see fit
 
-Bonus: dont alter any of the markup / add / remove HTML attributes
+Bonus: don't alter any of the markup / add / remove HTML attributes
 
 ## Exercise 2
 
-Extract as much as you see fit from `share-1.jsx`, `share-2.jsx`, `share-3.jsx` into a shared library: `share-utils.js`.
-Feel free to use modern syntax as well as have typos, this is more to excercise refactoring / code re-use.
+Extract as much as you see fit from `share-1.jsx`, `share-2.jsx`, `share-3.jsx` into a shared library: `share-utils.jsx`.
+Feel free to use modern syntax as well as have typos, this is more to exercise refactoring / code re-use.
 
 
 ## Exercise 3
